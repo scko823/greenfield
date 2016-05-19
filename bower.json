@@ -1,0 +1,18 @@
+{
+  "name": "greenfield-html",
+  "authors": [
+    "Sin Cheung Ko <scko823@gmail.com>"
+  ],
+  "description": "html code for mockup and play",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
